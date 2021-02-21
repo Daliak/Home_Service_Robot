@@ -1,6 +1,4 @@
-# Project 5: Home Service Robot
-
-The fifth project in the Udacity Robotics Software Engineer Nano Degree.
+Home Service Robot
 
 ### What does it do ?
 The robot will perform Localization, Path Planning and Navigation to simulate a robot picking up and dropping off an object.
