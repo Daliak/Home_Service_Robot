@@ -1,4 +1,4 @@
-Home Service Robot
+# Home Service Robot
 
 ### What does it do ?
 The robot will perform Localization, Path Planning and Navigation to simulate a robot picking up and dropping off an object.
